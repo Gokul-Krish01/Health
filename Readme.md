@@ -28,11 +28,6 @@ Doctalk is a web-based chatbot that provides information about diseases and thei
 - `medicine_database.js`: Database of diseases and medicines.
 - `styles.css`: Styles for the chatbot.
 
-## Customization
-
-- Change the background image by replacing `5.jpg`.
-- Modify `styles.css` to change the look.
-
 ## Contact
 
 For questions or suggestions, open an issue on GitHub.
