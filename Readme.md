@@ -1,3 +1,4 @@
+![project-2](https://github.com/user-attachments/assets/df61104c-adc4-4381-83e0-628684e80bbe)
 # Doctalk - Medicine ChatBot
 
 Doctalk is a web-based chatbot that provides information about diseases and their medications.
